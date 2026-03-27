@@ -1,0 +1,219 @@
+[
+  {
+    "playerName": "Robert Lewandowski",
+    "playerCountry": "Poland",
+    "playerType": "Forward",
+    "rating": 9.5,
+    "foot": "Right",
+    "position": "Striker",
+    "price": 2000000,
+    "playerImg": "https://i.ibb.co.com/ksV27X6C/09-Lewandowski.webp"
+  },
+  {
+    "playerName": "Pedri",
+    "playerCountry": "Spain",
+    "playerType": "Midfielder",
+    "rating": 9.3,
+    "foot": "Right",
+    "position": "Central Midfielder",
+    "price": 1800000,
+    "playerImg": "https://i.ibb.co.com/Z1K7g8w0/08-Pedri.webp"
+  },
+  {
+    "playerName": "Gavi",
+    "playerCountry": "Spain",
+    "playerType": "Midfielder",
+    "rating": 9.1,
+    "foot": "Left",
+    "position": "Central Midfielder",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co.com/QFMJwpSy/06-Gavi.webp"
+  },
+  {
+    "playerName": "Frenkie de Jong",
+    "playerCountry": "Netherlands",
+    "playerType": "Midfielder",
+    "rating": 9.2,
+    "foot": "Right",
+    "position": "Defensive Midfielder",
+    "price": 1700000,
+    "playerImg": "https://i.ibb.co.com/zhW2mwkV/21-De-Jong.webp"
+  },
+  {
+    "playerName": "Marc-André ter Stegen",
+    "playerCountry": "Germany",
+    "playerType": "Goalkeeper",
+    "rating": 9.4,
+    "foot": "Right",
+    "position": "Goalkeeper",
+    "price": 1600000,
+    "playerImg": "https://i.ibb.co.com/zW1LjvzL/25-Szczesny.webp"
+  },
+  {
+    "playerName": "Ronald Araújo",
+    "playerCountry": "Uruguay",
+    "playerType": "Defender",
+    "rating": 9.0,
+    "foot": "Right",
+    "position": "Center Back",
+    "price": 1400000,
+    "playerImg":"https://i.ibb.co.com/jvV9YWys/04-Araujo.webp"
+  },
+  {
+    "playerName": "Lamine Yamal",
+    "playerCountry": "Spain",
+    "playerType": "Forward",
+    "rating": 9.2,
+    "foot": "Left",
+    "position": "Right Winger",
+    "price": 2000000,
+    "playerImg": "https://i.ibb.co.com/3m8qwjw4/10-Lamine.webp"
+
+  },
+  {
+    "playerName": "Fermín López",
+    "playerCountry": "Spain",
+    "playerType": "Midfielder",
+    "rating": 8.9,
+    "foot": "Right",
+    "position": "Attacking Midfielder",
+    "price": 1200000,
+    "playerImg": "https://i.ibb.co.com/8gTRTHBr/16-Fermin.webp"
+  },
+{
+    "playerName": "Raphinha",
+    "playerCountry": "Brazil",
+    "playerType": "Forward",
+    "rating": 8.9,
+    "foot": "Left",
+    "position": "Right Winger",
+    "price": 1400000,
+    "playerImg": "https://i.ibb.co.com/7x7n6cZM/11-Raphinha.webp"
+  },
+  {
+    "playerName": "Ferran Torres",
+    "playerCountry": "Spain",
+    "playerType": "Forward",
+    "rating": 8.7,
+    "foot": "Right",
+    "position": "Forward",
+    "price": 1300000,
+    "playerImg": "https://i.ibb.co.com/s9yzJpPJ/07-Ferran-Torres.webp"
+  },
+{
+    "playerName": "Jules Koundé",
+    "playerCountry": "France",
+    "playerType": "Defender",
+    "rating": 9.0,
+    "foot": "Right",
+    "position": "Center Back",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co.com/pBTthpRK/23-Kounde.webp"
+  },
+  {
+    "playerName": "Alejandro Balde",
+    "playerCountry": "Spain",
+    "playerType": "Defender",
+    "rating": 8.9,
+    "foot": "Left",
+    "position": "Left Back",
+    "price": 1200000,
+    "playerImg": "https://i.ibb.co.com/pvbD0F7M/03-Balde.webp"
+  }, 
+  {
+    "playerName": "Joao Cancelo",
+    "playerCountry": "Portugal",
+    "playerType": "Defender",
+    "rating": 8.9,
+    "foot": "Right",
+    "position": "Full Back",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co.com/BKLgRNHt/00-Cancelo.webp"
+  },
+  {
+    "playerName": "Andreas Christensen",
+    "playerCountry": "Denmark",
+    "playerType": "Defender",
+    "rating": 8.8,
+    "foot": "Right",
+    "position": "Center Back",
+    "price": 1400000,
+    "playerImg": "https://i.ibb.co.com/RkNSDTj7/15-Christensen.webp"
+  },
+  {
+    "playerName": "Gerard Martin",
+    "playerCountry": "Spain",
+    "playerType": "Defender",
+    "rating": 8.5,
+    "foot": "Left",
+    "position": "left-Back",
+    "price": 1300000,
+    "playerImg": "https://i.ibb.co.com/DfpCGj5K/18-Martin.webp"
+  },
+  {
+    "playerName": "Eric Garcia",
+    "playerCountry": "Spain",
+    "playerType": "Defender",
+    "rating": 8.5,
+    "foot": "Right",
+    "position": "Center Back",
+    "price": 1200000,
+    "playerImg": "https://i.ibb.co.com/nMxp4kQW/24-Eric-Garcia.webp"
+  },
+  {
+    "playerName": "Dani Olmo",
+    "playerCountry": "Spain",
+    "playerType": "Midfielder",
+    "rating": 9.0,
+    "foot": "Right",
+    "position": "Attacking Midfielder",
+    "price": 1800000,
+    "playerImg": "https://i.ibb.co.com/Gvhh879R/20-Olmo-1.webp"
+  },
+  {
+    "playerName": "Marc Bernal",
+    "playerCountry": "Spain",
+    "playerType": "Midfielder",
+    "rating": 8.6,
+    "foot": "Right",
+    "position": "Defensive Midfielder",
+    "price": 1100000,
+    "playerImg": "https://i.ibb.co.com/LhPCjTVK/22-Bernal-2.webp"
+  },
+  {
+    "playerName": "Marcus Rashford",
+    "playerCountry": "England",
+    "playerType": "Forward",
+    "rating": 9.1,
+    "foot": "Right",
+    "position": "Left Wing",
+    "price": 2000000,
+    "playerImg": "https://i.ibb.co.com/HRHy9VP/14-Rashford.webp"
+  },
+  {
+    "playerName": "Roony Bardghji",
+    "playerCountry": "Sweden",
+    "playerType": "Forward",
+    "rating": 8.7,
+    "foot": "Left",
+    "position": "Right Wing",
+    "price": 1300000,
+    "playerImg": "https://i.ibb.co.com/bMgjbmjd/28-Bardghji.webp"
+  },
+  {
+  "playerName": "Joan Garcia",
+  "playerCountry": "Spain",
+  "playerType": "Goalkeeper",
+  "rating": 8.7,
+  "foot": "Right",
+  "position": "Goalkeeper",
+  "price": 1400000,
+  "playerImg": "https://i.ibb.co.com/9HDcwrFL/01-Joan-Garcia-1.webp"
+}
+  
+]
+
+
+
+
+
