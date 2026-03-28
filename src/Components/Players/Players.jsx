@@ -9,7 +9,7 @@ const [selectedPlayers,setSelectedPlayers]=useState([]);
     return (
         <div className='container mx-auto mt-5  '>
             <div className='flex justify-between items-center mb-5 border-b border-red-700 pb-2 px-2 md:px-0 '>
-                <h1 className='font-bold md:text-2xl italic'>{selected === 'available'?"Available Players": `Selected Players(${selectedPlayers.length}/${players.length})`}</h1>
+                <h1 className='font-bold md:text-2xl text-xl italic'>{selected === 'available'?"Available Players": `Selected Players(${selectedPlayers.length}/${players.length})`}</h1>
                 <div className='' >
                     <button  onClick={()=>setSelected('available')} className={`btn rounded-r-none rounded-l-xl ${selected === "available" ? 'bg-[#E7FE29]' : 'bg-gray-200'}`}>Available</button>
                     <button  onClick={()=>setSelected('selected')}  className={`btn rounded-l-none rounded-r-xl ${selected === "selected" ? 'bg-[#E7FE29]' : 'bg-gray-200'}`}>Selected<span>{selectedPlayers.length}</span></button>

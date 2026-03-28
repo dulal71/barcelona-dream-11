@@ -24,7 +24,7 @@ const Navbar = ({coin}) => {
  <div className='flex justify-center items-center gap-3'>
       <img className='w-12 ' src={Logo} alt="" />
       <h1 className='font-bold italic text-xl md:text-3xl'><span className='text-[#004d98]'>Barca</span> <span className='text-[#edbb00]'>XI</span> <span className='text-[#a50044]'>Picker</span> </h1>
-       <div>
+       <div className=''>
     <label className="swap swap-rotate">
   {/* this hidden checkbox controls the state */}
   <input type="checkbox" className="theme-controller" value="synthwave" />
