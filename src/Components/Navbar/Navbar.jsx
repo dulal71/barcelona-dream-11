@@ -5,7 +5,7 @@ import { User2 } from 'lucide-react';
 const Navbar = ({coin}) => {
   return (
     <div>
-     <div className="navbar bg-base-100 shadow-sm p-5 lg:p-10 border-b border-red-700 pb-2 ">
+     <div className="navbar bg-base-100 shadow-sm p-5 lg:p-10 border-b border-red-700 pb-2   ">
   <div className="navbar-start">
     <div className="dropdown mr-3 md:mr-0">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -24,7 +24,7 @@ const Navbar = ({coin}) => {
  <div className='flex justify-center items-center gap-3'>
       <img className='w-12 ' src={Logo} alt="" />
       <h1 className='font-bold italic text-xl md:text-3xl'><span className='text-[#004d98]'>Barca</span> <span className='text-[#edbb00]'>XI</span> <span className='text-[#a50044]'>Picker</span> </h1>
-       <div className=''>
+       <div className='hidden md:block'>
     <label className="swap swap-rotate">
   {/* this hidden checkbox controls the state */}
   <input type="checkbox" className="theme-controller" value="synthwave" />
