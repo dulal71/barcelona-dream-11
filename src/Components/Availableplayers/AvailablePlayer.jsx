@@ -23,7 +23,7 @@ const AvailablePlayer = ({players ,coin,setCoin,selectedPlayers,setSelectedPlaye
            
   {/* midfielder         */}
    <h2 className='text-center font-bold text-2xl text-red-700 italic'>Midfielder</h2>        
- <div className='grid md:grid-cols-3 lg:grid-cols-5 md:gap-7 lg:gap-5 border-b border-red-700 pb-2'>
+ <div className='grid md:grid-cols-3 lg:grid-cols-5 gap-7 lg:gap-5 border-b border-red-700 pb-2'>
   {
       midfielder.map((player,index) => <Player key={index} player={player}
                  setCoin={setCoin} coin={coin}
