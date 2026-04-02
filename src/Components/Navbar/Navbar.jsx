@@ -4,7 +4,7 @@ import Logo from '../../assets/fc-barcelona-logo-png-transparent.png'
 import { User2 } from 'lucide-react';
 const Navbar = ({coin}) => {
   return (
-    <div>
+    <div classname="fixed left-0 right-0 top-0">
      <div className="navbar bg-base-100 shadow-sm p-5 lg:p-10 border-b border-red-700 pb-2   ">
   <div className="navbar-start">
     <div className="dropdown mr-3 md:mr-0">
