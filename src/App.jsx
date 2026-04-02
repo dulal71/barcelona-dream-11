@@ -13,10 +13,10 @@ const fetchPlayers =async()=>{
 return data;
 }
 
-
+const playerPromise = fetchPlayers()
 function App() {
  const [coin,setCoin] =useState(0)
-const playerPromise = fetchPlayers()
+
   return (
     <>
 <Navbar coin={coin}></Navbar>
