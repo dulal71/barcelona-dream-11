@@ -3,7 +3,7 @@ import BannerImage from '../../assets/bg-shadow.png'
 import Image from '../../assets/fc-barcelona-logo-png-transparent.png'
 const Banner = ({setCoin}) => {
     return (
-        <div className='container object-cover mx-auto mt-5 p-5 bg-linear-to-r from-red-700 to-blue-900
+        <div className='container object-cover mx-auto mt-15 p-5 bg-linear-to-r from-red-700 to-blue-900
          '>
             <div className='flex flex-col items-center justify-center space-y-2'>
                 <div>
